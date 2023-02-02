@@ -12,3 +12,10 @@ I was born in China from an old town called Shaoxing (where Chinese cooking wine
 When I'm not studying, I love going out with friends to try out new restaurants. This year, I start to learn boxing🥊 and ballet🩰 so I'm not sitting in front my computer everday.<br>
 <br>
 I love traveling and exploring different parts of the world. Growing up in multi-cultural environment made me really enjoying interacting with people from different backgrounds. It's always facisnating me to hear cultures and traditions from different regions. <br>
+<br>
+
+#### **My previous Projects👓**
+1. How has the Carbon Dioxide (CO2) emission level changed globally from 1990 to 2020?
+https://jianiw.shinyapps.io/final-project-JianiW/
+2. The World Wide Race for Artificial Intelligence: A Path Forward for U.S. Policy
+https://digital.lib.washington.edu/researchworks/handle/1773/46263 
